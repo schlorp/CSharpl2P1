@@ -1,0 +1,13 @@
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 2.1\c#\CSles3\CSles3\bin\Debug\netcoreapp3.1\CSles3.exe
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 2.1\c#\CSles3\CSles3\bin\Debug\netcoreapp3.1\CSles3.deps.json
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 2.1\c#\CSles3\CSles3\bin\Debug\netcoreapp3.1\CSles3.runtimeconfig.json
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 2.1\c#\CSles3\CSles3\bin\Debug\netcoreapp3.1\CSles3.runtimeconfig.dev.json
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 2.1\c#\CSles3\CSles3\bin\Debug\netcoreapp3.1\CSles3.dll
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 2.1\c#\CSles3\CSles3\bin\Debug\netcoreapp3.1\CSles3.pdb
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 2.1\c#\CSles3\CSles3\obj\Debug\netcoreapp3.1\CSles3.csprojAssemblyReference.cache
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 2.1\c#\CSles3\CSles3\obj\Debug\netcoreapp3.1\CSles3.AssemblyInfoInputs.cache
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 2.1\c#\CSles3\CSles3\obj\Debug\netcoreapp3.1\CSles3.AssemblyInfo.cs
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 2.1\c#\CSles3\CSles3\obj\Debug\netcoreapp3.1\CSles3.csproj.CoreCompileInputs.cache
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 2.1\c#\CSles3\CSles3\obj\Debug\netcoreapp3.1\CSles3.dll
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 2.1\c#\CSles3\CSles3\obj\Debug\netcoreapp3.1\CSles3.pdb
+C:\Users\SKIKK\mediacollege amsterdam\bewijzenmap\periode 2.1\c#\CSles3\CSles3\obj\Debug\netcoreapp3.1\CSles3.genruntimeconfig.cache
